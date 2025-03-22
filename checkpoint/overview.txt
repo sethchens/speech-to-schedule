@@ -1,0 +1,8 @@
+This folder contains files that save the following(same as those at the same level of this folder):
+Model Weight
+Model Architecture/Configuration
+Optimizer State
+Training State
+Metadata
+
+One can fine-tune this model further by passing these files to model trainer.

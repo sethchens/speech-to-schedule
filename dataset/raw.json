@@ -1,0 +1,1202 @@
+[
+    {
+        "input": "Set up a conference call with the vendors this Monday at 2 PM.",
+        "output": { "title": "Vendor Conference Call", "reminder": "Prepare agenda", "location": "blank", "date": "03/24/2025", "time": "02:00 PM" }
+    },
+    {
+        "input": "Remind me to pick up the prescription on the 27th.",
+        "output": { "title": "Prescription Pickup", "reminder": "Bring insurance card", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a rehearsal for the band this Sunday afternoon at the studio.",
+        "output": { "title": "Band Rehearsal", "reminder": "Bring instruments", "location": "studio", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a networking event for the professionals next Wednesday evening.",
+        "output": { "title": "Networking Event", "reminder": "Bring business cards", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a language exchange session in four days at the cafe.",
+        "output": { "title": "Language Exchange", "reminder": "Bring conversation topics", "location": "cafe", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the ballet performance this Tuesday at the theater.",
+        "output": { "title": "Ballet Performance", "reminder": "blank", "location": "theater", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online book club meeting on Thursday.",
+        "output": { "title": "Book Club Meeting", "reminder": "Prepare discussion points", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a consultation with the financial advisor on the 28th at 10:30 AM.",
+        "output": { "title": "Financial Consultation", "reminder": "Bring investment documents", "location": "blank", "date": "03/28/2025", "time": "10:30 AM" }
+    },
+    {
+        "input": "Plan a photography workshop for next Friday at the community center.",
+        "output": { "title": "Photography Workshop", "reminder": "Bring camera", "location": "community center", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the library DVDs this Monday.",
+        "output": { "title": "DVD Return", "reminder": "Bring library card", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the science fair at the school next Saturday at 1:00 PM.",
+        "output": { "title": "Science Fair", "reminder": "blank", "location": "school", "date": "03/29/2025", "time": "01:00 PM" }
+    },
+    {
+        "input": "Schedule a meeting with the interior designer on the 30th.",
+        "output": { "title": "Interior Design Meeting", "reminder": "Bring room measurements", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a bird watching trip this Sunday morning at the nature reserve.",
+        "output": { "title": "Bird Watching Trip", "reminder": "Bring binoculars", "location": "nature reserve", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software update on Wednesday.",
+        "output": { "title": "Software Update", "reminder": "Backup data", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a cooking demonstration for next Monday at 6:00 PM at the kitchen store.",
+        "output": { "title": "Cooking Demonstration", "reminder": "blank", "location": "kitchen store", "date": "03/24/2025", "time": "06:00 PM" }
+    },
+    {
+        "input": "Book a session at the spa for this Thursday afternoon.",
+        "output": { "title": "Spa Session", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a conference for the marketing team in three days at the convention center.",
+        "output": { "title": "Marketing Conference", "reminder": "Bring presentation materials", "location": "convention center", "date": "03/25/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to water the garden on the 26th.",
+        "output": { "title": "Water Garden", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a board game night with friends this Friday at someone's house.",
+        "output": { "title": "Board Game Night", "reminder": "Bring snacks", "location": "someone's house", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning train on Tuesday at the station.",
+        "output": { "title": "Early Train", "reminder": "Pack travel documents", "location": "station", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the botanical garden next Saturday at 10:00 AM.",
+        "output": { "title": "Botanical Garden Visit", "reminder": "Check for guided tours", "location": "blank", "date": "03/29/2025", "time": "10:00 AM" }
+    },
+    {
+        "input": "Book a wine tasting class for this Monday evening at the vineyard.",
+        "output": { "title": "Wine Tasting Class", "reminder": "blank", "location": "vineyard", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a grooming appointment at the pet salon for the dog on the 30th.",
+        "output": { "title": "Pet Grooming", "reminder": "Bring vaccination records", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a hiking trip with the family in two days at the mountain.",
+        "output": { "title": "Family Hiking Trip", "reminder": "Bring hiking boots", "location": "mountain", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the credit card bill on Wednesday.",
+        "output": { "title": "Pay Credit Card Bill", "reminder": "Have card details", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Reschedule the client presentation to Tuesday afternoon at the main hall.",
+        "output": { "title": "Client Presentation", "reminder": "Prepare slides", "location": "main hall", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the flight check-in on the 28th at 6:00 AM.",
+        "output": { "title": "Flight Check-in", "reminder": "Have passport ready", "location": "blank", "date": "03/28/2025", "time": "06:00 AM" }
+    },
+    {
+        "input": "Plan a picnic with friends this Sunday at the park.",
+        "output": { "title": "Friends Picnic", "reminder": "Bring snacks", "location": "park", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a tutoring session for the math exam next Wednesday.",
+        "output": { "title": "Math Tutoring", "reminder": "Review notes", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the art gallery in three days at 2:00 PM.",
+        "output": { "title": "Art Gallery Visit", "reminder": "Check opening hours", "location": "blank", "date": "03/25/2025", "time": "02:00 PM" }
+    },
+    {
+        "input": "Book a table for dinner with colleagues this Monday evening at the bistro.",
+        "output": { "title": "Colleagues Dinner", "reminder": "blank", "location": "bistro", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online coding workshop on Thursday.",
+        "output": { "title": "Coding Workshop", "reminder": "Install software", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a car maintenance appointment for the 29th at 9:00 AM at the garage.",
+        "output": { "title": "Car Maintenance", "reminder": "Bring registration", "location": "garage", "date": "03/29/2025", "time": "09:00 AM" }
+    },
+    {
+        "input": "Plan a yoga class for next Friday morning at the studio.",
+        "output": { "title": "Yoga Class", "reminder": "Bring mat", "location": "studio", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the dry cleaning this Tuesday.",
+        "output": { "title": "Dry Cleaning Pickup", "reminder": "Bring receipt", "location": "blank", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the concert at the auditorium next Saturday at 8:00 PM.",
+        "output": { "title": "Concert", "reminder": "Bring tickets", "location": "auditorium", "date": "03/29/2025", "time": "08:00 PM" }
+    },
+    {
+        "input": "Schedule a call with the accountant on the 30th.",
+        "output": { "title": "Accountant Call", "reminder": "Have tax documents", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a bike ride with the group this Sunday morning at the trail.",
+        "output": { "title": "Bike Ride", "reminder": "Bring helmet", "location": "trail", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the project review on Wednesday.",
+        "output": { "title": "Project Review", "reminder": "Review progress", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a pottery class for next Monday at 3:00 PM at the studio.",
+        "output": { "title": "Pottery Class", "reminder": "Bring apron", "location": "studio", "date": "03/24/2025", "time": "03:00 PM" }
+    },
+    {
+        "input": "Book a reservation at the theater for this Thursday evening.",
+        "output": { "title": "Theater Reservation", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the investors in two days at the boardroom.",
+        "output": { "title": "Investors Meeting", "reminder": "Bring financial report", "location": "boardroom", "date": "03/24/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to water the plants on the 26th.",
+        "output": { "title": "Water Plants", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a movie night with friends this Friday at home.",
+        "output": { "title": "Movie Night", "reminder": "Buy snacks", "location": "home", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning flight on Tuesday at the airport.",
+        "output": { "title": "Early Flight", "reminder": "Pack luggage", "location": "airport", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the museum next Saturday at 11:00 AM.",
+        "output": { "title": "Museum Visit", "reminder": "Check exhibit guide", "location": "blank", "date": "03/29/2025", "time": "11:00 AM" }
+    },
+    {
+        "input": "Book a cooking class for this Monday evening at the culinary school.",
+        "output": { "title": "Cooking Class", "reminder": "blank", "location": "culinary school", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a checkup at the vet for the pet on the 30th.",
+        "output": { "title": "Vet Checkup", "reminder": "Bring pet carrier", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a picnic with the family in two days at the lake.",
+        "output": { "title": "Family Picnic", "reminder": "Bring blanket", "location": "lake", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the internet bill on Wednesday.",
+        "output": { "title": "Pay Internet Bill", "reminder": "Have account details", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with Sarah next Monday at 10:00 AM at the downtown office.",
+        "output": { "title": "Meeting with Sarah", "reminder": "Discuss project proposal", "location": "downtown office", "date": "03/24/2025", "time": "10:00 AM" }
+    },
+    {
+        "input": "Remind me of the doctor's appointment on Tuesday.",
+        "output": { "title": "Doctor's Appointment", "reminder": "Bring medical records", "location": "blank", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a team lunch for Friday at 12:30 PM at the Italian restaurant.",
+        "output": { "title": "Team Lunch", "reminder": "Confirm restaurant reservation", "location": "Italian restaurant", "date": "03/28/2025", "time": "12:30 PM" }
+    },
+    {
+        "input": "Set a reminder for the online seminar on Wednesday.",
+        "output": { "title": "Online Seminar", "reminder": "Prepare questions", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a haircut appointment for Sunday at 3:00 PM at the local salon.",
+        "output": { "title": "Haircut Appointment", "reminder": "blank", "location": "local salon", "date": "03/23/2025", "time": "03:00 PM" }
+    },
+    {
+        "input": "Arrange a call with Bob on Thursday morning.",
+        "output": { "title": "Call with Bob", "reminder": "Discuss contract details", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Organize a birthday party for my friend next Saturday evening at the community center.",
+        "output": { "title": "Birthday Party", "reminder": "Bring gift", "location": "community center", "date": "03/29/2025", "time": "whole day" }
+    },
+    {
+        "input": "Add a reminder to pay the electricity bill on the 30th of March at 8:00 AM.",
+        "output": { "title": "Pay Electricity Bill", "reminder": "Have account number ready", "location": "blank", "date": "03/30/2025", "time": "08:00 AM" }
+    },
+    {
+        "input": "Schedule a workout session for Monday at the gym.",
+        "output": { "title": "Workout Session", "reminder": "Bring gym clothes", "location": "gym", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the library book return on next Wednesday afternoon.",
+        "output": { "title": "Library Book Return", "reminder": "Remember to take all books", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Meeting with the design team in two hours at the conference room.",
+        "output": { "title": "Design Team Meeting", "reminder": "Bring prototype", "location": "conference room", "date": "03/22/2025", "time": "04:53 PM" }
+    },
+    {
+        "input": "Dentist appointment this Tuesday at 11am.",
+        "output": { "title": "Dentist Appointment", "reminder": "blank", "location": "blank", "date": "03/25/2025", "time": "11:00 AM" }
+    },
+    {
+        "input": "Plan a dinner with family next Friday evening at the local diner.",
+        "output": { "title": "Family Dinner", "reminder": "Reserve a table", "location": "local diner", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Seminar on AI, next Wednesday.",
+        "output": { "title": "AI Seminar", "reminder": "Bring notebook", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Haircut, next Sunday at the salon.",
+        "output": { "title": "Haircut", "reminder": "blank", "location": "salon", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Call John in three days.",
+        "output": { "title": "Call John", "reminder": "Discuss project update", "location": "blank", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a rehearsal for the community choir this Monday at 7:00 PM at the church hall.",
+        "output": { "title": "Choir Rehearsal", "reminder": "Bring sheet music", "location": "church hall", "date": "03/24/2025", "time": "07:00 PM" }
+    },
+    {
+        "input": "Remind me to pick up the tailor-made suit on the 27th.",
+        "output": { "title": "Suit Pickup", "reminder": "Check for alterations", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a fishing trip with the guys this Sunday morning at the lake.",
+        "output": { "title": "Fishing Trip", "reminder": "Bring fishing gear", "location": "lake", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a panel discussion for the authors next Wednesday evening.",
+        "output": { "title": "Authors Panel", "reminder": "Prepare questions", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a wine tasting tour in five days at the vineyard.",
+        "output": { "title": "Wine Tour", "reminder": "blank", "location": "vineyard", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the symphony orchestra this Tuesday at the concert hall.",
+        "output": { "title": "Symphony Concert", "reminder": "blank", "location": "concert hall", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online stock market analysis on Thursday.",
+        "output": { "title": "Stock Analysis", "reminder": "Prepare charts", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the real estate agent on the 28th at 11:00 AM.",
+        "output": { "title": "Real Estate Meeting", "reminder": "Bring property documents", "location": "blank", "date": "03/28/2025", "time": "11:00 AM" }
+    },
+    {
+        "input": "Plan a pottery class for next Friday at the art center.",
+        "output": { "title": "Pottery Class", "reminder": "Bring tools", "location": "art center", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented power tools this Monday.",
+        "output": { "title": "Tool Return", "reminder": "Bring rental agreement", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the art exhibition at the museum next Saturday at 2:00 PM.",
+        "output": { "title": "Art Exhibition", "reminder": "blank", "location": "museum", "date": "03/29/2025", "time": "02:00 PM" }
+    },
+    {
+        "input": "Schedule a consultation with the marriage counselor on the 30th.",
+        "output": { "title": "Counseling Session", "reminder": "Bring notes", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a stargazing trip this Sunday evening at the observatory.",
+        "output": { "title": "Stargazing Trip", "reminder": "Bring telescope", "location": "observatory", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software training session on Wednesday.",
+        "output": { "title": "Software Training", "reminder": "Bring laptop", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a meditation session for next Monday at 7:30 PM at the wellness center.",
+        "output": { "title": "Meditation Session", "reminder": "blank", "location": "wellness center", "date": "03/24/2025", "time": "07:30 PM" }
+    },
+    {
+        "input": "Book a ticket for the stand-up comedy show this Thursday evening.",
+        "output": { "title": "Comedy Show", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a brainstorming session for the new product in two days at the innovation hub.",
+        "output": { "title": "Product Brainstorming", "reminder": "Bring ideas", "location": "innovation hub", "date": "03/24/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the air filters on the 26th.",
+        "output": { "title": "Change Air Filters", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a game night with the neighbors this Friday at the clubhouse.",
+        "output": { "title": "Game Night", "reminder": "Bring board games", "location": "clubhouse", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning bus to the city on Tuesday at the station.",
+        "output": { "title": "City Bus", "reminder": "Pack snacks", "location": "station", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the historical landmark next Saturday at 9:00 AM.",
+        "output": { "title": "Landmark Visit", "reminder": "Check for guided tours", "location": "blank", "date": "03/29/2025", "time": "09:00 AM" }
+    },
+    {
+        "input": "Book a calligraphy workshop for this Monday evening at the art studio.",
+        "output": { "title": "Calligraphy Workshop", "reminder": "blank", "location": "art studio", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new employees on the 30th.",
+        "output": { "title": "Employee Training", "reminder": "Bring training materials", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a camping trip with the friends in two days at the national park.",
+        "output": { "title": "Camping Trip", "reminder": "Bring tent", "location": "national park", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the parking ticket on Wednesday.",
+        "output": { "title": "Pay Parking Ticket", "reminder": "Have ticket details", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Party, next Saturday evening at my place.",
+        "output": { "title": "Party", "reminder": "Buy decorations", "location": "my place", "date": "03/29/2025", "time": "whole day" }
+    },
+    {
+        "input": "Pay the bills, 30th March, 9am.",
+        "output": { "title": "Pay Bills", "reminder": "Have account details", "location": "blank", "date": "03/30/2025", "time": "09:00 AM" }
+    },
+    {
+        "input": "Gym session, monday.",
+        "output": { "title": "Gym", "reminder": "Bring water", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Return books on Wednesday afternoon.",
+        "output": { "title": "Return Books", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Meeting with the boss, next Monday at the office.",
+        "output": { "title": "Boss Meeting", "reminder": "Prepare report", "location": "office", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Doctor appointment, tuesday morning.",
+        "output": { "title": "Doctor", "reminder": "Bring ID", "location": "blank", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Dinner with friends, Friday 7pm at the pub.",
+        "output": { "title": "Dinner", "reminder": "blank", "location": "pub", "date": "03/28/2025", "time": "07:00 PM" }
+    },
+    {
+        "input": "Webinar, next wednesday.",
+        "output": { "title": "Webinar", "reminder": "Test audio", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Hair styling next Sunday at the salon.",
+        "output": { "title": "Hair styling", "reminder": "blank", "location": "salon", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a presentation for the investors this Monday at the conference hall.",
+        "output": { "title": "Investors Presentation", "reminder": "Prepare financial projections", "location": "conference hall", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the altered dress on the 27th afternoon.",
+        "output": { "title": "Dress Pickup", "reminder": "Check for fitting", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a kayaking trip with the team this Sunday at the river.",
+        "output": { "title": "Kayaking Trip", "reminder": "Bring life vests", "location": "river", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a poetry reading for the writers next Wednesday evening.",
+        "output": { "title": "Poetry Reading", "reminder": "Prepare poems", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a historical tour in six days at the old town.",
+        "output": { "title": "Historical Tour", "reminder": "Bring comfortable shoes", "location": "old town", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the magic show this Tuesday at the theater.",
+        "output": { "title": "Magic Show", "reminder": "blank", "location": "theater", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online cryptocurrency webinar on Thursday.",
+        "output": { "title": "Crypto Webinar", "reminder": "Prepare questions", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the insurance agent on the 28th at 1:00 PM.",
+        "output": { "title": "Insurance Meeting", "reminder": "Bring policy documents", "location": "blank", "date": "03/28/2025", "time": "01:00 PM" }
+    },
+    {
+        "input": "Plan a pottery workshop for next Friday at the ceramics studio.",
+        "output": { "title": "Pottery Workshop", "reminder": "Bring clay", "location": "ceramics studio", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented video games this Monday.",
+        "output": { "title": "Game Return", "reminder": "Bring original packaging", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the classic car show at the fairgrounds next Saturday at 3:00 PM.",
+        "output": { "title": "Car Show", "reminder": "blank", "location": "fairgrounds", "date": "03/29/2025", "time": "03:00 PM" }
+    },
+    {
+        "input": "Schedule a consultation with the career coach on the 30th.",
+        "output": { "title": "Career Coaching", "reminder": "Bring resume", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a bird photography trip this Sunday morning at the wildlife sanctuary.",
+        "output": { "title": "Bird Photography", "reminder": "Bring camera with zoom lens", "location": "wildlife sanctuary", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software demonstration on Wednesday.",
+        "output": { "title": "Software Demo", "reminder": "Prepare demo script", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a tai chi session for next Monday at 8:00 AM at the park.",
+        "output": { "title": "Tai Chi Session", "reminder": "Wear loose clothing", "location": "park", "date": "03/24/2025", "time": "08:00 AM" }
+    },
+    {
+        "input": "Book a ticket for the jazz concert this Thursday evening.",
+        "output": { "title": "Jazz Concert", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a strategy meeting for the new campaign in three days at the marketing agency.",
+        "output": { "title": "Campaign Strategy", "reminder": "Bring marketing ideas", "location": "marketing agency", "date": "03/25/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the fish tank water on the 26th.",
+        "output": { "title": "Fish Tank Water Change", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a trivia night with the friends this Friday at the pub.",
+        "output": { "title": "Trivia Night", "reminder": "Bring team spirit", "location": "pub", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning ferry to the island on Tuesday at the harbor.",
+        "output": { "title": "Island Ferry", "reminder": "Pack sunscreen", "location": "harbor", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the planetarium next Saturday at 10:30 AM.",
+        "output": { "title": "Planetarium Visit", "reminder": "Check for show times", "location": "blank", "date": "03/29/2025", "time": "10:30 AM" }
+    },
+    {
+        "input": "Book a calligraphy workshop for this Monday evening at the art studio.",
+        "output": { "title": "Calligraphy Workshop", "reminder": "blank", "location": "art studio", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new volunteers on the 30th.",
+        "output": { "title": "Volunteer Training", "reminder": "Bring volunteer handbook", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a rock climbing trip with the friends in two days at the indoor gym.",
+        "output": { "title": "Rock Climbing Trip", "reminder": "Bring climbing shoes", "location": "indoor gym", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the parking fine on Wednesday.",
+        "output": { "title": "Pay Parking Fine", "reminder": "Have fine details", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a design review for the website this Monday at the design studio.",
+        "output": { "title": "Website Design Review", "reminder": "Prepare mockups", "location": "design studio", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the tailored curtains on the 27th morning.",
+        "output": { "title": "Curtain Pickup", "reminder": "Check for measurements", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a sailing trip with the crew this Sunday at the marina.",
+        "output": { "title": "Sailing Trip", "reminder": "Bring sunscreen", "location": "marina", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a book signing event for the authors next Wednesday evening.",
+        "output": { "title": "Book Signing", "reminder": "Prepare books", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a ghost tour in seven days at the haunted house.",
+        "output": { "title": "Ghost Tour", "reminder": "Bring flashlight", "location": "haunted house", "date": "03/29/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the opera performance this Tuesday at the opera house.",
+        "output": { "title": "Opera Performance", "reminder": "blank", "location": "opera house", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online digital marketing workshop on Thursday.",
+        "output": { "title": "Digital Marketing Workshop", "reminder": "Prepare questions", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the tax advisor on the 28th at 2:00 PM.",
+        "output": { "title": "Tax Advisor Meeting", "reminder": "Bring tax documents", "location": "blank", "date": "03/28/2025", "time": "02:00 PM" }
+    },
+    {
+        "input": "Plan a sculpting class for next Friday at the sculpture studio.",
+        "output": { "title": "Sculpting Class", "reminder": "Bring tools", "location": "sculpture studio", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented construction equipment this Monday.",
+        "output": { "title": "Equipment Return", "reminder": "Bring rental agreement", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the antique fair at the convention center next Saturday at 4:00 PM.",
+        "output": { "title": "Antique Fair", "reminder": "blank", "location": "convention center", "date": "03/29/2025", "time": "04:00 PM" }
+    },
+    {
+        "input": "Schedule a consultation with the life coach on the 30th.",
+        "output": { "title": "Life Coaching", "reminder": "Bring personal goals", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a mushroom foraging trip this Sunday morning at the forest.",
+        "output": { "title": "Mushroom Foraging", "reminder": "Bring identification guide", "location": "forest", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software deployment on Wednesday.",
+        "output": { "title": "Software Deployment", "reminder": "Prepare release notes", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a flamenco dance class for next Monday at 8:30 PM at the dance studio.",
+        "output": { "title": "Flamenco Class", "reminder": "Bring dance shoes", "location": "dance studio", "date": "03/24/2025", "time": "08:30 PM" }
+    },
+    {
+        "input": "Book a ticket for the stand-up comedy special this Thursday evening.",
+        "output": { "title": "Comedy Special", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a strategy meeting for the new app in four days at the tech company.",
+        "output": { "title": "App Strategy Meeting", "reminder": "Bring app mockups", "location": "tech company", "date": "03/26/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the car oil on the 26th.",
+        "output": { "title": "Car Oil Change", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a potluck dinner with the neighbors this Friday at the community hall.",
+        "output": { "title": "Potluck Dinner", "reminder": "Bring a dish", "location": "community hall", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning shuttle to the airport on Tuesday at the hotel.",
+        "output": { "title": "Airport Shuttle", "reminder": "Pack luggage", "location": "hotel", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the historical battlefield next Saturday at 11:30 AM.",
+        "output": { "title": "Battlefield Visit", "reminder": "Check for reenactments", "location": "blank", "date": "03/29/2025", "time": "11:30 AM" }
+    },
+    {
+        "input": "Book a jewelry making workshop for this Monday evening at the craft store.",
+        "output": { "title": "Jewelry Workshop", "reminder": "blank", "location": "craft store", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new interns on the 30th.",
+        "output": { "title": "Intern Training", "reminder": "Bring training manuals", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a rock climbing session with the friends in two days at the outdoor cliffs.",
+        "output": { "title": "Outdoor Climbing", "reminder": "Bring climbing gear", "location": "outdoor cliffs", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the parking ticket online on Wednesday.",
+        "output": { "title": "Pay Ticket Online", "reminder": "Have ticket number", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a workshop on digital art this Monday at the community center.",
+        "output": { "title": "Digital Art Workshop", "reminder": "Bring drawing tablet", "location": "community center", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the dry cleaning at the laundromat on the 27th.",
+        "output": { "title": "Dry Cleaning", "reminder": "Bring ticket", "location": "laundromat", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a bike tour with the cycling club this Sunday morning at the park trails.",
+        "output": { "title": "Bike Tour", "reminder": "Bring water bottle", "location": "park trails", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a lecture on ancient history next Wednesday evening at the university.",
+        "output": { "title": "Ancient History Lecture", "reminder": "Bring notebook", "location": "university", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a guided tour of the local brewery in eight days.",
+        "output": { "title": "Brewery Tour", "reminder": "blank", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the indie film screening this Tuesday at the art house cinema.",
+        "output": { "title": "Indie Film Screening", "reminder": "blank", "location": "art house cinema", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online data science course on Thursday.",
+        "output": { "title": "Data Science Course", "reminder": "Install software", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the landscape architect on the 28th at 3:00 PM.",
+        "output": { "title": "Landscape Meeting", "reminder": "Bring garden plans", "location": "blank", "date": "03/28/2025", "time": "03:00 PM" }
+    },
+    {
+        "input": "Plan a mosaic art class for next Friday at the art studio.",
+        "output": { "title": "Mosaic Art Class", "reminder": "Bring design ideas", "location": "art studio", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented power washer this Monday.",
+        "output": { "title": "Power Washer Return", "reminder": "Bring cleaning supplies", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the craft fair at the town square next Saturday at 11:00 AM.",
+        "output": { "title": "Craft Fair", "reminder": "blank", "location": "town square", "date": "03/29/2025", "time": "11:00 AM" }
+    },
+    {
+        "input": "Schedule a consultation with the nutritionist on the 30th.",
+        "output": { "title": "Nutritionist Meeting", "reminder": "Bring food diary", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a bird watching expedition this Sunday afternoon at the nature reserve.",
+        "output": { "title": "Bird Watching Expedition", "reminder": "Bring binoculars", "location": "nature reserve", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software upgrade on Wednesday.",
+        "output": { "title": "Software Upgrade", "reminder": "Backup data", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a salsa dance class for next Monday at 9:00 PM at the dance hall.",
+        "output": { "title": "Salsa Class", "reminder": "Bring dance shoes", "location": "dance hall", "date": "03/24/2025", "time": "09:00 PM" }
+    },
+    {
+        "input": "Book a ticket for the stand-up comedy performance this Thursday evening.",
+        "output": { "title": "Comedy Performance", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a strategy session for the new product launch in five days at the company headquarters.",
+        "output": { "title": "Product Launch Strategy", "reminder": "Bring market research", "location": "company headquarters", "date": "03/27/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the air purifier filters on the 26th.",
+        "output": { "title": "Air Purifier Filters", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a game tournament with the neighbors this Friday at the recreation center.",
+        "output": { "title": "Game Tournament", "reminder": "Bring game controllers", "location": "recreation center", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning shuttle to the cruise ship on Tuesday at the port.",
+        "output": { "title": "Cruise Shuttle", "reminder": "Pack travel documents", "location": "port", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the historical fort next Saturday at 12:00 PM.",
+        "output": { "title": "Fort Visit", "reminder": "Check for historical reenactments", "location": "blank", "date": "03/29/2025", "time": "12:00 PM" }
+    },
+    {
+        "input": "Book a pottery workshop for this Monday evening at the ceramics studio.",
+        "output": { "title": "Pottery Workshop", "reminder": "blank", "location": "ceramics studio", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new staff members on the 30th.",
+        "output": { "title": "Staff Training", "reminder": "Bring training materials", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a snorkeling trip with the friends in two days at the coral reef.",
+        "output": { "title": "Snorkeling Trip", "reminder": "Bring snorkeling gear", "location": "coral reef", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the speeding ticket online on Wednesday.",
+        "output": { "title": "Pay Speeding Ticket", "reminder": "Have ticket number", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a seminar on renewable energy this Monday at the science center.",
+        "output": { "title": "Renewable Energy Seminar", "reminder": "Bring questions for the speaker", "location": "science center", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the custom-made shoes at the cobbler on the 27th evening.",
+        "output": { "title": "Shoe Pickup", "reminder": "Check for fit", "location": "cobbler", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a bird watching cruise with the nature club this Sunday at the river delta.",
+        "output": { "title": "Bird Watching Cruise", "reminder": "Bring camera with telephoto lens", "location": "river delta", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a book club meeting for the literary enthusiasts next Wednesday at the library.",
+        "output": { "title": "Book Club Meeting", "reminder": "Prepare discussion points", "location": "library", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a guided tour of the historical ruins in nine days.",
+        "output": { "title": "Historical Ruins Tour", "reminder": "blank", "location": "blank", "date": "03/31/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the experimental theater production this Tuesday at the black box theater.",
+        "output": { "title": "Experimental Theater", "reminder": "blank", "location": "black box theater", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online graphic design course on Thursday.",
+        "output": { "title": "Graphic Design Course", "reminder": "Install design software", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the financial planner on the 28th at 4:00 PM.",
+        "output": { "title": "Financial Planner Meeting", "reminder": "Bring investment portfolio", "location": "blank", "date": "03/28/2025", "time": "04:00 PM" }
+    },
+    {
+        "input": "Plan a calligraphy workshop for next Friday at the art supply store.",
+        "output": { "title": "Calligraphy Workshop", "reminder": "Bring ink and pens", "location": "art supply store", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented construction tools this Monday.",
+        "output": { "title": "Construction Tool Return", "reminder": "Bring safety equipment", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the vintage record fair at the music hall next Saturday at 2:00 PM.",
+        "output": { "title": "Record Fair", "reminder": "blank", "location": "music hall", "date": "03/29/2025", "time": "02:00 PM" }
+    },
+    {
+        "input": "Schedule a consultation with the family therapist on the 30th.",
+        "output": { "title": "Family Therapy", "reminder": "Bring family history", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a reptile watching expedition this Sunday afternoon at the swamp.",
+        "output": { "title": "Reptile Expedition", "reminder": "Bring safety gear", "location": "swamp", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software troubleshooting session on Wednesday.",
+        "output": { "title": "Software Troubleshooting", "reminder": "Bring error logs", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a tango dance class for next Monday at 9:30 PM at the dance studio.",
+        "output": { "title": "Tango Class", "reminder": "Bring dance shoes", "location": "dance studio", "date": "03/24/2025", "time": "09:30 PM" }
+    },
+    {
+        "input": "Book a ticket for the experimental film screening this Thursday evening.",
+        "output": { "title": "Experimental Film", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a strategy session for the new AI project in six days at the tech lab.",
+        "output": { "title": "AI Project Strategy", "reminder": "Bring research papers", "location": "tech lab", "date": "03/28/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the HVAC filters on the 26th.",
+        "output": { "title": "HVAC Filters Change", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a karaoke night with the neighbors this Friday at the lounge.",
+        "output": { "title": "Karaoke Night", "reminder": "Bring song requests", "location": "lounge", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning shuttle to the train station on Tuesday at the inn.",
+        "output": { "title": "Train Shuttle", "reminder": "Pack travel documents", "location": "inn", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the historical observatory next Saturday at 1:00 PM.",
+        "output": { "title": "Observatory Visit", "reminder": "Check for night sky viewing times", "location": "blank", "date": "03/29/2025", "time": "01:00 PM" }
+    },
+    {
+        "input": "Book a stained glass workshop for this Monday evening at the glass studio.",
+        "output": { "title": "Stained Glass Workshop", "reminder": "blank", "location": "glass studio", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new board members on the 30th.",
+        "output": { "title": "Board Training", "reminder": "Bring board documents", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a canyoning trip with the friends in two days at the gorge.",
+        "output": { "title": "Canyoning Trip", "reminder": "Bring safety harness", "location": "gorge", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the traffic camera fine online on Wednesday.",
+        "output": { "title": "Traffic Camera Fine", "reminder": "Have citation number", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a seminar on urban gardening this Monday at the botanical garden.",
+        "output": { "title": "Urban Gardening Seminar", "reminder": "Bring gardening gloves", "location": "botanical garden", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the custom-made furniture on the 27th evening.",
+        "output": { "title": "Furniture Pickup", "reminder": "Check for assembly instructions", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a whale watching tour with the marine biology club this Sunday at the coastal area.",
+        "output": { "title": "Whale Watching Tour", "reminder": "Bring binoculars and seasickness medication", "location": "coastal area", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a writers' workshop for the aspiring novelists next Wednesday at the writing center.",
+        "output": { "title": "Writers' Workshop", "reminder": "Prepare manuscript excerpts", "location": "writing center", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a guided tour of the ancient ruins in ten days.",
+        "output": { "title": "Ancient Ruins Tour", "reminder": "blank", "location": "blank", "date": "04/01/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the avant-garde dance performance this Tuesday at the dance theater.",
+        "output": { "title": "Avant-Garde Dance", "reminder": "blank", "location": "dance theater", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online content marketing course on Thursday.",
+        "output": { "title": "Content Marketing Course", "reminder": "Prepare writing prompts", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the investment advisor on the 28th at 5:00 PM.",
+        "output": { "title": "Investment Advisor Meeting", "reminder": "Bring financial goals", "location": "blank", "date": "03/28/2025", "time": "05:00 PM" }
+    },
+    {
+        "input": "Plan a watercolor painting class for next Friday at the art supply store.",
+        "output": { "title": "Watercolor Class", "reminder": "Bring watercolor paper and brushes", "location": "art supply store", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented construction equipment this Monday.",
+        "output": { "title": "Construction Equipment Return", "reminder": "Bring safety gear", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the vintage motorcycle show at the race track next Saturday at 3:00 PM.",
+        "output": { "title": "Motorcycle Show", "reminder": "blank", "location": "race track", "date": "03/29/2025", "time": "03:00 PM" }
+    },
+    {
+        "input": "Schedule a consultation with the relationship counselor on the 30th.",
+        "output": { "title": "Relationship Counseling", "reminder": "Bring relationship timeline", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a deep sea diving expedition this Sunday afternoon at the coral reef.",
+        "output": { "title": "Deep Sea Diving", "reminder": "Bring diving certification", "location": "coral reef", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software debugging session on Wednesday.",
+        "output": { "title": "Software Debugging", "reminder": "Bring code samples", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a hip-hop dance class for next Monday at 10:00 PM at the dance studio.",
+        "output": { "title": "Hip-Hop Class", "reminder": "Bring comfortable shoes", "location": "dance studio", "date": "03/24/2025", "time": "10:00 PM" }
+    },
+    {
+        "input": "Book a ticket for the independent theater play this Thursday evening.",
+        "output": { "title": "Indie Theater Play", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a strategy session for the new augmented reality project in seven days at the tech startup.",
+        "output": { "title": "AR Project Strategy", "reminder": "Bring AR prototypes", "location": "tech startup", "date": "03/29/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the air conditioner filters on the 26th.",
+        "output": { "title": "AC Filters Change", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a board game tournament with the gaming club this Friday at the game store.",
+        "output": { "title": "Game Tournament", "reminder": "Bring strategy guides", "location": "game store", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning shuttle to the airport terminal on Tuesday at the hotel.",
+        "output": { "title": "Terminal Shuttle", "reminder": "Pack travel documents", "location": "hotel", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the historical lighthouse next Saturday at 1:30 PM.",
+        "output": { "title": "Lighthouse Visit", "reminder": "Check for guided tours", "location": "blank", "date": "03/29/2025", "time": "01:30 PM" }
+    },
+    {
+        "input": "Book a glass blowing workshop for this Monday evening at the glass studio.",
+        "output": { "title": "Glass Blowing Workshop", "reminder": "blank", "location": "glass studio", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new managers on the 30th.",
+        "output": { "title": "Manager Training", "reminder": "Bring leadership guides", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a spelunking trip with the caving club in two days at the cave system.",
+        "output": { "title": "Spelunking Trip", "reminder": "Bring helmets and headlamps", "location": "cave system", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the parking violation notice online on Wednesday.",
+        "output": { "title": "Parking Violation", "reminder": "Have violation notice number", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a session on sustainable living this Monday at the environmental center.",
+        "output": { "title": "Sustainable Living Session", "reminder": "Bring reusable containers", "location": "environmental center", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the custom-made suit from the tailor on the 27th late afternoon.",
+        "output": { "title": "Custom Suit Pickup", "reminder": "Check for alterations", "location": "tailor", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a deep-sea fishing trip with the anglers this Sunday at the deep sea fishing spot.",
+        "output": { "title": "Deep-Sea Fishing", "reminder": "Bring fishing rods and bait", "location": "deep sea fishing spot", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a creative writing workshop for the aspiring poets next Wednesday at the literary cafe.",
+        "output": { "title": "Poetry Workshop", "reminder": "Prepare poem drafts", "location": "literary cafe", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a guided tour of the archaeological dig site in eleven days.",
+        "output": { "title": "Archaeological Dig Tour", "reminder": "blank", "location": "blank", "date": "04/02/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the contemporary dance performance this Tuesday at the modern dance studio.",
+        "output": { "title": "Contemporary Dance", "reminder": "blank", "location": "modern dance studio", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online social media marketing course on Thursday.",
+        "output": { "title": "Social Media Marketing", "reminder": "Prepare social media accounts", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the estate planner on the 28th at 6:00 PM.",
+        "output": { "title": "Estate Planner Meeting", "reminder": "Bring asset documents", "location": "blank", "date": "03/28/2025", "time": "06:00 PM" }
+    },
+    {
+        "input": "Plan a ceramic painting class for next Friday at the pottery studio.",
+        "output": { "title": "Ceramic Painting Class", "reminder": "Bring ceramic pieces", "location": "pottery studio", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented landscaping equipment this Monday.",
+        "output": { "title": "Landscaping Return", "reminder": "Bring safety gear", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the vintage electronics fair at the technology museum next Saturday at 5:00 PM.",
+        "output": { "title": "Electronics Fair", "reminder": "blank", "location": "technology museum", "date": "03/29/2025", "time": "05:00 PM" }
+    },
+    {
+        "input": "Schedule a consultation with the child psychologist on the 30th.",
+        "output": { "title": "Child Psychology", "reminder": "Bring child's medical history", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a nocturnal animal watching expedition this Sunday at the national park.",
+        "output": { "title": "Nocturnal Animals", "reminder": "Bring night vision goggles", "location": "national park", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software penetration testing session on Wednesday.",
+        "output": { "title": "Penetration Testing", "reminder": "Bring test scripts", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a lindy hop dance class for next Monday at 10:30 PM at the dance hall.",
+        "output": { "title": "Lindy Hop Class", "reminder": "Bring dance shoes", "location": "dance hall", "date": "03/24/2025", "time": "10:30 PM" }
+    },
+    {
+        "input": "Book a ticket for the experimental theater performance this Thursday evening.",
+        "output": { "title": "Experimental Theater", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a strategy session for the new blockchain project in eight days at the fintech company.",
+        "output": { "title": "Blockchain Project", "reminder": "Bring white papers", "location": "fintech company", "date": "03/30/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the HVAC system filters on the 26th.",
+        "output": { "title": "HVAC System Filters", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a board game design night with the gaming club this Friday at the game development studio.",
+        "output": { "title": "Game Design Night", "reminder": "Bring game prototypes", "location": "game development studio", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning shuttle to the cruise terminal on Tuesday at the hotel.",
+        "output": { "title": "Cruise Terminal Shuttle", "reminder": "Pack travel documents", "location": "hotel", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the historical observatory at night next Saturday.",
+        "output": { "title": "Night Observatory Visit", "reminder": "Check for star gazing schedule", "location": "blank", "date": "03/29/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a stained glass restoration workshop for this Monday evening at the glass restoration studio.",
+        "output": { "title": "Stained Glass Restoration", "reminder": "blank", "location": "glass restoration studio", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new department heads on the 30th.",
+        "output": { "title": "Department Head Training", "reminder": "Bring departmental reports", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a canyoning expedition with the adventure club in two days at the deep canyon.",
+        "output": { "title": "Deep Canyoning", "reminder": "Bring climbing ropes", "location": "deep canyon", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the toll road violation notice online on Wednesday.",
+        "output": { "title": "Toll Road Violation", "reminder": "Have violation notice number", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a lecture on marine conservation this Monday at the aquarium.",
+        "output": { "title": "Marine Conservation Lecture", "reminder": "Bring notepad for notes", "location": "aquarium", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the custom-made wedding dress at the bridal boutique on the 27th.",
+        "output": { "title": "Wedding Dress Pickup", "reminder": "Check for final alterations", "location": "bridal boutique", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a deep-sea diving excursion with the explorers this Sunday at the underwater cave.",
+        "output": { "title": "Underwater Cave Dive", "reminder": "Bring underwater camera", "location": "underwater cave", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a screenwriting workshop for the aspiring filmmakers next Wednesday at the film studio.",
+        "output": { "title": "Screenwriting Workshop", "reminder": "Prepare script ideas", "location": "film studio", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a guided tour of the ancient temple ruins in twelve days.",
+        "output": { "title": "Ancient Temple Tour", "reminder": "blank", "location": "blank", "date": "04/03/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the immersive theater performance this Tuesday at the interactive theater.",
+        "output": { "title": "Immersive Theater", "reminder": "blank", "location": "interactive theater", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online content creation course on Thursday.",
+        "output": { "title": "Content Creation Course", "reminder": "Prepare content samples", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the business consultant on the 28th at 7:00 PM.",
+        "output": { "title": "Business Consultant Meeting", "reminder": "Bring business plans", "location": "blank", "date": "03/28/2025", "time": "07:00 PM" }
+    },
+    {
+        "input": "Plan a fabric dyeing workshop for next Friday at the textile studio.",
+        "output": { "title": "Fabric Dyeing Workshop", "reminder": "Bring fabric to dye", "location": "textile studio", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented audio equipment this Monday.",
+        "output": { "title": "Audio Equipment Return", "reminder": "Bring cables and adapters", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the vintage computer fair at the technology museum next Saturday at 6:00 PM.",
+        "output": { "title": "Computer Fair", "reminder": "blank", "location": "technology museum", "date": "03/29/2025", "time": "06:00 PM" }
+    },
+    {
+        "input": "Schedule a consultation with the developmental psychologist on the 30th.",
+        "output": { "title": "Developmental Psychology", "reminder": "Bring assessment results", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a bioluminescence watching expedition this Sunday at the bay.",
+        "output": { "title": "Bioluminescence Watching", "reminder": "Bring dark clothing", "location": "bay", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software security audit session on Wednesday.",
+        "output": { "title": "Security Audit", "reminder": "Bring security logs", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a swing dance class for next Monday at 11:00 PM at the dance hall.",
+        "output": { "title": "Swing Dance Class", "reminder": "Bring dance shoes", "location": "dance hall", "date": "03/24/2025", "time": "11:00 PM" }
+    },
+    {
+        "input": "Book a ticket for the experimental opera performance this Thursday evening.",
+        "output": { "title": "Experimental Opera", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a strategy session for the new quantum computing project in nine days at the research lab.",
+        "output": { "title": "Quantum Computing", "reminder": "Bring theoretical models", "location": "research lab", "date": "03/31/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the smart home system filters on the 26th.",
+        "output": { "title": "Smart Home Filters", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a tabletop game design night with the gaming community this Friday at the community center.",
+        "output": { "title": "Tabletop Game Design", "reminder": "Bring game components", "location": "community center", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning shuttle to the private airport on Tuesday at the villa.",
+        "output": { "title": "Private Airport Shuttle", "reminder": "Pack travel documents", "location": "villa", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the historical astronomical site next Saturday at 2:00 PM.",
+        "output": { "title": "Astronomical Site", "reminder": "Check for astronomical events", "location": "blank", "date": "03/29/2025", "time": "02:00 PM" }
+    },
+    {
+        "input": "Book a glass fusing workshop for this Monday evening at the glass art studio.",
+        "output": { "title": "Glass Fusing Workshop", "reminder": "blank", "location": "glass art studio", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new executives on the 30th.",
+        "output": { "title": "Executive Training", "reminder": "Bring leadership assessments", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a rappelling trip with the adventure club in two days at the rock face.",
+        "output": { "title": "Rappelling Trip", "reminder": "Bring climbing harness", "location": "rock face", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the parking infringement notice online on Wednesday.",
+        "output": { "title": "Parking Infringement", "reminder": "Have infringement notice number", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a panel discussion on artificial intelligence this Monday at the tech incubator.",
+        "output": { "title": "AI Panel Discussion", "reminder": "Bring questions for the panelists", "location": "tech incubator", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to pick up the custom-made leather jacket from the designer on the 27th.",
+        "output": { "title": "Leather Jacket Pickup", "reminder": "Check for custom details", "location": "designer", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a deep-sea exploration trip with the researchers this Sunday at the trench.",
+        "output": { "title": "Deep-Sea Exploration", "reminder": "Bring research equipment", "location": "trench", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a documentary filmmaking workshop for the aspiring directors next Wednesday at the media center.",
+        "output": { "title": "Documentary Workshop", "reminder": "Prepare storyboards", "location": "media center", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a guided tour of the ancient observatory ruins in thirteen days.",
+        "output": { "title": "Ancient Observatory Tour", "reminder": "blank", "location": "blank", "date": "04/04/2025", "time": "whole day" }
+    },
+    {
+        "input": "Book a ticket for the interactive art installation this Tuesday at the art gallery.",
+        "output": { "title": "Art Installation", "reminder": "blank", "location": "art gallery", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the online UX design course on Thursday.",
+        "output": { "title": "UX Design Course", "reminder": "Prepare wireframe examples", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a meeting with the business strategist on the 28th at 8:00 PM.",
+        "output": { "title": "Business Strategist Meeting", "reminder": "Bring market analysis", "location": "blank", "date": "03/28/2025", "time": "08:00 PM" }
+    },
+    {
+        "input": "Plan a textile weaving workshop for next Friday at the craft guild.",
+        "output": { "title": "Textile Weaving Workshop", "reminder": "Bring yarn and looms", "location": "craft guild", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Remind me to return the rented camera equipment this Monday.",
+        "output": { "title": "Camera Equipment Return", "reminder": "Bring lenses and tripods", "location": "blank", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Attend the vintage record player fair at the audio museum next Saturday at 7:00 PM.",
+        "output": { "title": "Record Player Fair", "reminder": "blank", "location": "audio museum", "date": "03/29/2025", "time": "07:00 PM" }
+    },
+    {
+        "input": "Schedule a consultation with the educational psychologist on the 30th.",
+        "output": { "title": "Educational Psychology", "reminder": "Bring learning assessments", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a deep-sea creature watching expedition this Sunday at the abyss.",
+        "output": { "title": "Deep-Sea Creatures", "reminder": "Bring underwater lighting", "location": "abyss", "date": "03/23/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder for the software vulnerability assessment session on Wednesday.",
+        "output": { "title": "Vulnerability Assessment", "reminder": "Bring system logs", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a blues dance class for next Monday at 11:30 PM at the dance hall.",
+        "output": { "title": "Blues Dance Class", "reminder": "Bring dance shoes", "location": "dance hall", "date": "03/24/2025", "time": "11:30 PM" }
+    },
+    {
+        "input": "Book a ticket for the experimental performance art this Thursday evening.",
+        "output": { "title": "Performance Art", "reminder": "blank", "location": "blank", "date": "03/27/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a strategy session for the new bioengineering project in ten days at the biotechnology lab.",
+        "output": { "title": "Bioengineering Project", "reminder": "Bring research proposals", "location": "biotechnology lab", "date": "04/01/2025", "time": "whole day" }
+    },
+        {
+        "input": "Remind me to change the smart garden system sensors on the 26th.",
+        "output": { "title": "Smart Garden Sensors", "reminder": "blank", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a role-playing game design night with the gaming community this Friday at the game development studio.",
+        "output": { "title": "RPG Game Design", "reminder": "Bring game mechanics", "location": "game development studio", "date": "03/28/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set an alarm for the early morning shuttle to the executive airport on Tuesday at the resort.",
+        "output": { "title": "Executive Airport Shuttle", "reminder": "Pack travel documents", "location": "resort", "date": "03/25/2025", "time": "whole day" }
+    },
+    {
+        "input": "Arrange a visit to the historical astronomical observatory next Saturday at 3:00 PM.",
+        "output": { "title": "Astronomical Observatory", "reminder": "Check for solar observation times", "location": "blank", "date": "03/29/2025", "time": "03:00 PM" }
+    },
+    {
+        "input": "Book a glass sculpting workshop for this Monday evening at the glass art foundry.",
+        "output": { "title": "Glass Sculpting Workshop", "reminder": "blank", "location": "glass art foundry", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Schedule a training session for the new directors on the 30th.",
+        "output": { "title": "Director Training", "reminder": "Bring strategic plans", "location": "blank", "date": "03/30/2025", "time": "whole day" }
+    },
+    {
+        "input": "Plan a free climbing trip with the adventure club in two days at the cliff face.",
+        "output": { "title": "Free Climbing Trip", "reminder": "Bring safety mats", "location": "cliff face", "date": "03/24/2025", "time": "whole day" }
+    },
+    {
+        "input": "Set a reminder to pay the automated traffic fine online on Wednesday.",
+        "output": { "title": "Automated Traffic Fine", "reminder": "Have fine notice number", "location": "blank", "date": "03/26/2025", "time": "whole day" }
+    }
+  ]

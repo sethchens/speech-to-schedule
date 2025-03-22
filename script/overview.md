@@ -1,0 +1,1 @@
+This folder is to backup training process script. One in .py and one in.ipynb
