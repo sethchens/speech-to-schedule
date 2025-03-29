@@ -2,7 +2,7 @@
 The projective of this project is to fine-tune a custom model that can later be used as the fundation of speech-to-schedule feature in the other Kotlin APP.
 Another goal is alos to have a deeper understanding of model arcitecture and logic.
 
-[Software Demo Video](https://youtu.be/ypDXzr17P6w)
+[Software Demo Video](https://youtu.be/BUZw4pWNZw8)
 
 # Development Environment
 ## Language
