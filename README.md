@@ -18,4 +18,4 @@ Google Colab, pandas, pyTorch, Hugging Face transformers,
 
 # Future Work
 - Integration to a mobile app
-- Generate larger dataset to fine-tune it further
+- Generate larger and mroe diversed dataset to fine-tune it further
